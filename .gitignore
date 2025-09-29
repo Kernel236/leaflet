@@ -1,0 +1,15 @@
+# History files
+.Rhistory
+.Rhistory
+.Rproj
+# Session Data files
+.RData
+.RDataTmp
+
+
+# RStudio files
+.Rproj.user/
+
+# Temporary files
+*.tmp
+*.temp
